@@ -7,7 +7,6 @@ This project was created as a practice project to improve my frontend developmen
 
 - HTML
 - CSS
-- JavaScript
 
 Coming soon
 Practice / Training Project
