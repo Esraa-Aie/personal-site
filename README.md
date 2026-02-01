@@ -1,12 +1,4 @@
+# Personal Portfolio Website
 
-This project was created as a practice project to improve my frontend development skills.
-
-- Simple and clean layout
-- Responsive design
-- Easy to use interface
-
-- HTML
-- CSS
-
-Coming soon
-Practice / Training Project
+A multi-page personal portfolio website built with HTML and CSS.  
+Showcases personal information, projects, and contact details.
